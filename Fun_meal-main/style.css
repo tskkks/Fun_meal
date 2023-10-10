@@ -1,0 +1,21 @@
+body {
+    color: #333;
+}
+
+
+nav ul{
+list-style: none;    
+display: flex;
+
+    
+}
+
+header{
+    display: flex;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
