@@ -1,0 +1,29 @@
+body {
+    font-size: large;
+    text-align: center;
+}
+
+
+nav ul{
+list-style-position: outside;
+display: flex;
+text-align: center;
+}
+
+header{
+    display: flex;
+    text-align: center;
+    
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+ h1{
+    font-size:xx-large;
+    color:rgb(194, 15, 51);
+   text-align: justify;
+  }
