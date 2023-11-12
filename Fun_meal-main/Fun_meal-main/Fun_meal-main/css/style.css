@@ -1,0 +1,36 @@
+body {
+    font-size: large;
+    text-align: center;
+   background-color: rgb(202, 212, 219);
+}
+
+.Inicio{
+    height: 60px;
+    background-color: #ffffff; /* Fundo branco */
+    border-bottom: 1px solid #ccc; /* Linha fina cinza na parte inferior */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+nav ul{
+display: flex;
+padding-left: 10px;
+text-align: center;
+}
+
+nav ul li {
+margin: 15px;
+}
+
+header{
+    display: flex;
+    text-align: center;
+    
+}
+
+.logo {
+    display: flex;
+    margin-left: 20%;
+    margin-top: 60px;
+    
+  }
+
